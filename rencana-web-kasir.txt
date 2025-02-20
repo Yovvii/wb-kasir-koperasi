@@ -1,0 +1,29 @@
+RENCANA WEB KASIR
+- membuat menu utama
+Visi Koperasi
+"Menjadi koperasi yang unggul dan berkelanjutan dalam meningkatkan kesejahteraan anggota dan masyarakat melalui pelayanan prima, inovasi, dan pengelolaan usaha yang profesional."
+
+Misi Koperasi
+> Meningkatkan kualitas pelayanan kepada anggota dan masyarakat.
+> Mengembangkan usaha yang menguntungkan dan berkelanjutan.
+> Memberikan pendidikan dan pelatihan untuk meningkatkan kapasitas anggota.
+> Menjalin kemitraan strategis dengan berbagai pihak untuk pengembangan usaha.
+> Menerapkan prinsip-prinsip koperasi yang transparan, akuntabel, dan demokratis.
+
+Profil Koperasi
+Nama Koperasi: Koperasi Sejahtera Bersama
+Bidang Usaha: Simpan Pinjam dan Usaha Bersama
+Bentuk Koperasi: Koperasi Serba Usaha (KSU)
+Tahun Berdiri: 2010
+Jumlah Anggota: 500 Orang
+Lokasi Operasional: Wilayah Kota dan Sekitarnya
+Legalitas: Terdaftar dan diawasi oleh Kementerian Koperasi dan UKM Republik Indonesia.
+
+Alamat Koperasi
+Kantor Pusat:
+Jl. Merdeka No. 123, Kelurahan Bahagia, Kecamatan Sentosa, Kota Sejahtera, Provinsi Makmur, Indonesia.
+Kode Pos: 12345
+
+- membuat menu login
+- membuat menu sign-up
+- membuat daftar harga barang
